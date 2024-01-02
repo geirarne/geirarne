@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geirarne
 - 👀 I’m interested in making useful stuff
-- 🌱 I’m currently learning how to make a big company work smarter
+- 🌱 I’m currently learning how to make a big company work smarter in @code-obos
 - 📫 How to reach me: https://gab.net
 
 <!---
